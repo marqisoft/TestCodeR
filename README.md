@@ -8,7 +8,7 @@
    * Sous-point premier : Ah vous savez...
    * Sous-point second : Le sucre d'érable c'est si bon !
 
-> Science et sagesse.
+> Science et conscience.
 > Clairvoyance et abstraction.
 > Espoir et persévérance.
 
@@ -17,3 +17,5 @@
 **NOTE : Ceci est un exercice. On s'amuse, ici.**
 
 _marQIsoft_
+
+C'est vraiment un exercice magnifique!
