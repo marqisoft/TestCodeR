@@ -12,6 +12,6 @@
 
 [Guitoune]http://super.guitoune.matente.com
 
-** NOTE : Ceci est un exercice. On s'amuse, ici. **
+**NOTE : Ceci est un exercice. On s'amuse, ici.**
 
 _marQIsoft_
