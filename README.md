@@ -1,6 +1,8 @@
 # TestCodeR
 
 1. Premier point : vivre heureux !
+   * La joie n'est pas qu'une notion, mais un état d'être.
+   * Bonheur et sourires vont de pair.
 2. Deuxième point : Danser hilare !
 3. Virevolter tel un écureuil nourri au sirop d'érable...
    * Sous-point premier : Ah vous savez...
